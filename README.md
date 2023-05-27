@@ -1,5 +1,3 @@
-[![MasterHead](https://github.com/Frans-Budi/Frans-Budi/blob/main/banner.png)]()
-
 <h1 align="center">Hi 👋, I'm Frans Budi Kashira</h1>
 <h3 align="center">A full-stack app and web developer from Indonesia</h3>
 
