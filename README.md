@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [KuliKu-Consumen-App](https://github.com/Frans-Budi/kuliku-consumen-app)
 
-- 🌱 I’m currently learning **Android Java**
+- 🌱 I’m currently learning **Android Kotlin**
 
 - 📫 How to reach me **fransbudikashira@gmail.com**
 
