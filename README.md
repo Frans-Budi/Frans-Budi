@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frans Budi Kashira</h1>
-<h3 align="center">A full-stack app and web developer from Indonesia</h3>
+<h3 align="center">A mobile and web developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [KuliKu-Consumen-App](https://github.com/Frans-Budi/kuliku-consumen-app)
 
